@@ -1,0 +1,108 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Tarea 1.1 - Version Final",
+            "cwd": "Tarea 1.1 - Version Final",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Tarea 1.1 - Version Final (profile mode)",
+            "cwd": "Tarea 1.1 - Version Final",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Tarea 1.1 - Version Final (release mode)",
+            "cwd": "Tarea 1.1 - Version Final",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "burger_calculator",
+            "cwd": "TAREA 1.1\\burger_calculator",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "burger_calculator (profile mode)",
+            "cwd": "TAREA 1.1\\burger_calculator",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "burger_calculator (release mode)",
+            "cwd": "TAREA 1.1\\burger_calculator",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "chimefon",
+            "cwd": "TAREA 1.1\\chimefon",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "chimefon (profile mode)",
+            "cwd": "TAREA 1.1\\chimefon",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "chimefon (release mode)",
+            "cwd": "TAREA 1.1\\chimefon",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "transporteapp",
+            "cwd": "TAREA 1.1\\transporteapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "transporteapp (profile mode)",
+            "cwd": "TAREA 1.1\\transporteapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "transporteapp (release mode)",
+            "cwd": "TAREA 1.1\\transporteapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "banco",
+            "cwd": "TAREA 1.2\\banco",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "banco (profile mode)",
+            "cwd": "TAREA 1.2\\banco",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "banco (release mode)",
+            "cwd": "TAREA 1.2\\banco",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
